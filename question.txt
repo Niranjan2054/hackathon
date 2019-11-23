@@ -17,3 +17,28 @@ Constraint:
 1≤c≤1000
 1≤p1≤10
 1≤p2≤10
+
+2.All submissions for this problem are available.In AlphaMatrix Cipher, there is a 5x5 matrix containing all the letters of the English alphabet sequentially except one letter called as The Rogue Letter (since there are 26 letters and the matrix can only contain 25 elements).
+
+Each letter is substituted with an integer value which is the concatenated value of the row and column position of that letter (row and column positions are taken from 1 to 5).
+
+Given a Rogue Letter and the ciphered integer values, decipher the given string (assuming the string has only lowercase letters - ASCII value is from 97 to 122).
+
+Input:
+The First line contains an integer n, specifying the number of test cases. n test cases follow.
+Each line of the test case contains three data: a character r (Rogue Letter) followed by another integer l which specifies the number of characters in the string and then multiple 2 digit integers (each cipher integer represent one character of the string).
+Output:
+For each test case, output is a single string which is the deciphered text.
+
+Constraints
+1≤l≤100
+Subtasks
+30 points : 1≤n≤100
+70 points : 1≤n≤1000
+Sample Input:
+2
+e 5 42 23 21 22 44
+f 8 43 34 31 45 44 23 34 33
+Sample Output:
+right
+solution
