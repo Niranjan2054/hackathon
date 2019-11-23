@@ -42,3 +42,28 @@ f 8 43 34 31 45 44 23 34 33
 Sample Output:
 right
 solution
+
+3. All submissions for this problem are available.It's Samar's birthday. Samar loves Mathematics. He likes to cut his cake in such a way that size of all the pieces of the cake cut by him is a power of 2.
+
+Given the size of cake, find out the minimum number of pieces of cake Samar can cut.
+
+Input:
+The First line will contain an integer n, specifying the number of test cases. n test cases follow.
+Each line of the test case contains an integer p which specifies the size of the cake.
+Output:
+For each test case, output is the minimum number of pieces Samar can get by cutting the cake into pieces, size of which is a power of 2.
+
+Constraints
+1≤n≤100
+Subtasks
+30 points : 0≤p≤100
+70 points : 0≤p≤1000
+Sample Input:
+3
+7
+8
+27
+Sample Output:
+3
+1
+4
