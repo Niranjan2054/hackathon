@@ -22,6 +22,8 @@
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/LEADGAME.C)
 6. [End of corruption](https://www.codechef.com/IARCSJUD/problems/ENDCORR)
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/endofcorruption.C)
+7. [Discripencies in the voter list](https://www.codechef.com/IARCSJUD/problems/VOTERSDI)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/discrepancies_in_the_voter_list.C)
 ---
 ## Contributor
 [Niranjan Bekoju](https://github.com/Niranjan2054)
