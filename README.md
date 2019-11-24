@@ -9,7 +9,7 @@
 
 ---
 1. [Pizza Bet](https://www.codechef.com/MCQ2019/problems/PIZZABET)    
-[Answer](https://github.com/Niranjan2054/hackathon/blob/master/arjun%20and%20sara.C)
+[Answer](https://github.com/Niranjan2054/hackathon/blob/master/arjun_and_sara.C)
 2. [Alpha Matrix Cipher](https://www.codechef.com/MCQ2019/problems/AMCIPHER)
 [Answer](https://github.com/Niranjan2054/hackathon/blob/master/alphamatrixCipher.C)
 3. [Samar and His Birthday](https://www.codechef.com/MCQ2019/problems/SMRBDAY)  
