@@ -20,6 +20,8 @@
 [Answer](https://github.com/Niranjan2054/hackathon/blob/master/longpalindrome.C)
 5. [Lead Game](https://www.codechef.com/IARCSJUD/problems/LEADGAME)
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/LEADGAME.C)
+6. [End of corruption](https://www.codechef.com/IARCSJUD/problems/ENDCORR)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/endofcorruption.C)
 ---
 ## Contributor
 [Niranjan Bekoju](https://github.com/Niranjan2054)
