@@ -19,7 +19,7 @@
 4. [Longest Palindrome](https://www.codechef.com/IARCSJUD/problems/LONGPALI)
 [Answer](https://github.com/Niranjan2054/hackathon/blob/master/longpalindrome.C)
 5. [Lead Game](https://www.codechef.com/IARCSJUD/problems/LEADGAME)
-    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/leadgame.C)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/LEADGAME.C)
 ---
 ## Contributor
 [Niranjan Bekoju](https://github.com/Niranjan2054)
