@@ -34,6 +34,8 @@
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/pairxor.C)
 13. [Hacker 1A](https://www.geeksforgeeks.org/thoughtworks-interview-experience-set-7-on-campus/)
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/HACKEAR1.C)
+14. [Hacker 1B](https://www.geeksforgeeks.org/thoughtworks-interview-experience-set-7-on-campus/)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/bitstring.C)
 ---
 ## Contributor
 [Niranjan Bekoju](https://github.com/Niranjan2054)
