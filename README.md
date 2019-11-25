@@ -28,6 +28,10 @@
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/listofbook.C)
 9. [Zero One Tiles](https://www.codechef.com/IARCSJUD/problems/TILES01)
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/zero_one_tiles.C)
+10. [String Reading](https://www.geeksforgeeks.org/expand-the-string-according-to-the-given-conditions/)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/STRING1.C)
+11. [Pair Xor](https://www.geeksforgeeks.org/sum-xor-pairs-array/)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/pairxor.C)
 ---
 ## Contributor
 [Niranjan Bekoju](https://github.com/Niranjan2054)
