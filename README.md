@@ -26,6 +26,8 @@
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/discrepancies_in_the_voter_list.C)
 8. [List of Books](https://www.codechef.com/IARCSJUD/problems/BOOKLIST)
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/listofbook.C)
+9. [Zero One Tiles](https://www.codechef.com/IARCSJUD/problems/TILES01)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/zero_one_tiles.C)
 ---
 ## Contributor
 [Niranjan Bekoju](https://github.com/Niranjan2054)
