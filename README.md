@@ -24,6 +24,8 @@
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/endofcorruption.C)
 7. [Discripencies in the voter list](https://www.codechef.com/IARCSJUD/problems/VOTERSDI)
     [Answer](https://github.com/Niranjan2054/hackathon/blob/master/discrepancies_in_the_voter_list.C)
+8. [List of Books](https://www.codechef.com/IARCSJUD/problems/BOOKLIST)
+    [Answer](https://github.com/Niranjan2054/hackathon/blob/master/listofbook.C)
 ---
 ## Contributor
 [Niranjan Bekoju](https://github.com/Niranjan2054)
